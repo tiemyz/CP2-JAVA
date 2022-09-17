@@ -69,7 +69,7 @@ public class Receitas implements Comparable {
 
     @Override
     public String toString() {
-        return "Título da receita:" + titulo + "\nIngredientes:" + ingredientes + "\nModo de preparo:" + modo + "\nR$" + custo + "\nCategoria:" + categoria;
+        return "Título da receita: " + titulo + "\nIngredientes: " + ingredientes + "\nModo de preparo: " + modo + "\nR$" + custo + "\nCategoria: " + categoria;
     }
 
     @Override
